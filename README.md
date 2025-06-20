@@ -9,7 +9,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a Cybersecurity Engineer student with a strong focus on **offensive security**, **network infrastructure**, and **low-level automation**. I thrive on structured problem-solving, rapid skill acquisition, and delivering clean, maintainable solutions.
+I’m a Cybersecurity Engineer student with a strong focus on **offensive security**, **network infrastructure**, and **Bash and Python scripting for infrastructure automation, including CI/CD pipelines, Ansible, and custom task runners.
+
+**. I thrive on structured problem-solving, rapid skill acquisition, and delivering clean, maintainable solutions.
 
 - 🔍 Analytical mindset & logical approach  
 - 🤖 Hands-on experience with scripting, Linux and network auditing  
@@ -20,9 +22,9 @@ I’m a Cybersecurity Engineer student with a strong focus on **offensive securi
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python · Bash · C / C++  
+- **Languages:** Python · Bash · C / C++ · JAVA · HTML
 - **Security & Pentesting:** Kali Linux · Nmap · Burp Suite · Wireshark · Metasploit · OSINT  
-- **Networking:** Cisco Packet Tracer · CCNA concepts · VLANs · Subnetting · Switch & Router Config  
+- **Networking:** Cisco Packet Tracer · CCNA · VLANs · Subnetting · Switch & Router Config · Routing 
 - **Automation & Scripting:** Bash workflows · Python toolchains  
 - **Systems:** Linux (LPIC-1) · Windows CLI & PowerShell  
 - **Electronics & Embedded:** Arduino · Microcontrollers · Ultrasonic & Light Sensors · Digital Logic  
@@ -52,8 +54,8 @@ Designed and coded microcontroller solutions (Arduino) integrating sensors, serv
 
 ## 📫 Let’s Connect
 
-- 📧 **Email:** ricardosolis.cyber@gmail.com  
-- 🌐 **GitHub:** [github.com/ricardosoliscr](https://github.com/ricardosoliscr)  
+- 📧 **Email:** ricardo02solis@gmail.com 
+- 🌐 **GitHub:** [(https://github.com/JANDER4824)]
 
 I’m open to internships, entry-level roles or collaborative security projects where I can contribute immediately and continue growing as a cybersecurity professional.
 
