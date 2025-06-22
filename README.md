@@ -11,7 +11,7 @@
 
 I’m a Cybersecurity Engineer student with a strong focus on **offensive security**, **network infrastructure**, and **Bash and Python scripting for infrastructure automation, including CI/CD pipelines, Ansible, and custom task runners**.
 
-**. I thrive on structured problem-solving, rapid skill acquisition, and delivering clean, maintainable solutions.
+**. I thrive on structured problem-solving, rapid skill acquisition, and delivering clean, maintainable solutions.**
 
 - 🔍 Analytical mindset & logical approach  
 - 🤖 Hands-on experience with scripting, Linux and network auditing  
