@@ -56,6 +56,7 @@ Designed and coded microcontroller solutions (Arduino) integrating sensors, serv
 
 - 📧 **Email:** ricardo02solis@gmail.com 
 - 🌐 **GitHub:** [(https://github.com/JANDER4824)]
+- - 🌐 **WebPage:** [(https://jander4824.github.io/JANDER/)]
 
 I’m open to internships, entry-level roles or collaborative security projects where I can contribute immediately and continue growing as a cybersecurity professional.
 
