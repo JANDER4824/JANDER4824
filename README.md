@@ -47,8 +47,8 @@ Designed and coded microcontroller solutions (Arduino) integrating sensors, serv
 
 ## 🎓 Certifications & Learning
 
-- **In Progress:** Cisco CCNA · LPIC-1 · PCEP (Python Entry-Level)  
-- **Currently Exploring:** Advanced Ethical Hacking modules · Linux Hardening best practices
+- **In Progress:** Cisco CCNA · LPIC-1 · PCEP 
+- **Currently Exploring:** Ethical Hacking · Linux Hardening best practices
 
 ---
 
